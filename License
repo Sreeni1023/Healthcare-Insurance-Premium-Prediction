@@ -1,0 +1,12 @@
+
+---
+
+### **2. requirements.txt**
+Save all libraries you used:
+```txt
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
